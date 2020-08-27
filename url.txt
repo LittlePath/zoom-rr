@@ -1,0 +1,20 @@
+URL {
+  href: 'https://wmcc.zoom.us/closedcaption?id=93900267988&ns=U2NvdHQgRGF2aXMnIFpvb20gTWVldGluZw&expire=86400&sparams=id%2Cns%2Cexpire&signature=N_lz4gn_xcEJcNQhGrImMullZKBc1cv6WfIYrna38vU.EwEAAAF0MWKkmgABUYAYZlUzaDBHQU9RRXhiOG5aY0FYQWVGQT09OGYxWS9IMjdodzBuTEIrek1qMXNXdTh1RkNpZFRQd3BwMWZPWGUvNUtieitSSkJoTGlhbXB6dz09',
+  origin: 'https://wmcc.zoom.us',
+  protocol: 'https:',
+  username: '',
+  password: '',
+  host: 'wmcc.zoom.us',
+  hostname: 'wmcc.zoom.us',
+  port: '',
+  pathname: '/closedcaption',
+  search: '?id=93900267988&ns=U2NvdHQgRGF2aXMnIFpvb20gTWVldGluZw&expire=86400&sparams=id%2Cns%2Cexpire&signature=N_lz4gn_xcEJcNQhGrImMullZKBc1cv6WfIYrna38vU.EwEAAAF0MWKkmgABUYAYZlUzaDBHQU9RRXhiOG5aY0FYQWVGQT09OGYxWS9IMjdodzBuTEIrek1qMXNXdTh1RkNpZFRQd3BwMWZPWGUvNUtieitSSkJoTGlhbXB6dz09',
+  searchParams: URLSearchParams {
+    'id' => '93900267988',
+    'ns' => 'U2NvdHQgRGF2aXMnIFpvb20gTWVldGluZw',
+    'expire' => '86400',
+    'sparams' => 'id,ns,expire',
+    'signature' => 'N_lz4gn_xcEJcNQhGrImMullZKBc1cv6WfIYrna38vU.EwEAAAF0MWKkmgABUYAYZlUzaDBHQU9RRXhiOG5aY0FYQWVGQT09OGYxWS9IMjdodzBuTEIrek1qMXNXdTh1RkNpZFRQd3BwMWZPWGUvNUtieitSSkJoTGlhbXB6dz09' },
+  hash: ''
+}
+
