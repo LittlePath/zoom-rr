@@ -1,0 +1,19 @@
+{
+  "name": "zoom-rr",
+  "version": "0.1.0",
+  "description": "A proof of concept exploration of the 3rd party closed captioning API for Zoom",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittlePath/zoom-rr.git"
+  },
+  "author": "Scott Davis <scott@thirstyhead.com> (https://thirstyhead.com/)",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/LittlePath/zoom-rr/issues"
+  },
+  "homepage": "https://github.com/LittlePath/zoom-rr#readme"
+}
